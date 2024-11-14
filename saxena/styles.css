@@ -2,11 +2,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-img {
+head img {
     align-items: center;
 
 }
 
 header h1 {
-    background-color:gold;
+    background-color:grey;
+    color: black;
 }
