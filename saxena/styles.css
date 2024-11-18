@@ -1,12 +1,12 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color:blanchedalmond; 
+    background-color:antiquewhite; 
     line-height: 1.5em;
 }
 
 body header h1 { 
     background-color:#555151;
-    color: black;
+    color:white;
     text-align: center;
 }
 
@@ -24,7 +24,19 @@ body aside h2 {
 
 main section ol {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+main section ol a {
+    display: block;
+    color: white;
+    text-decoration: none;
     background-color:#555151;
     font-weight: bold;
+    border: 5px solid black;
+    padding: 20px;
+    margin-bottom: 5px;
 }
 
