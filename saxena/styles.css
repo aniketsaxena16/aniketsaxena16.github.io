@@ -1,9 +1,20 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color:blanchedalmond; 
 }
 
 
 body header h1 { 
     background-color:grey;
     color: black;
+    text-align: center;
 }
+
+body section h2 {
+    text-align: center;
+}
+
+body aside h2 {
+    text-align: center;
+}
+
