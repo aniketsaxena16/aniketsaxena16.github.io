@@ -11,7 +11,7 @@ body header h1 {
 }
 
 body header img {
-    text-align: center;
+    border: 5px solid black;
 }
 
 body section h2 {
@@ -40,3 +40,26 @@ main section ol a {
     margin-bottom: 5px;
 }
 
+section img{
+    border: 5px solid black;
+}
+
+aside img {
+    border: 5px solid black;
+}
+
+section p {
+    text-align: center;
+}
+
+aside p {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
